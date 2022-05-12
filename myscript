@@ -1,0 +1,1 @@
+echo ${INPUT}-${BUILD_NUMBER}-DATA > output
