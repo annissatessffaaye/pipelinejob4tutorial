@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git branch: 'main', url: 'https://github.com/Crush-Steelpunch/Jenkins-Easy-Runstage.git'
+                git branch: 'main', url: 'https://github.com/annissatessffaaye/pipelinejob4tutorial.git'
             }
         }
         stage('Run') {
